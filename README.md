@@ -13,13 +13,12 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 ## Project Motivation<a name="motivation"></a>
 
-For this project, I was interestested in using WHO data of Covid-19 till 04/03/2020 to better explore:
+For this project, I was interestested in using John Hopkins data of Covid-19 till 04/03/2020 to better explore:
 
-1. How bad is the world-wide pandemic?
-2. Is the growth of confirmed cases exponential? (Is the pandemic worse or better?)
-3. Is the pandemic in China, South Korea, Italy, and United States post-peak? (Is it under control?)
-4. Is the data reliable? (Does our analysis accord with current situation?)
-5. Is the population density an signficant factor to impact pandemic? (Should the countries with high population density pay more attention to response to covid-19?)
+1. How bad is the world-wide pandemic? (Is the growth of confirmed cases exponential?)
+2. Is the pandemic in China, South Korea, Italy, and United States post-peak? (Is it under control?)
+3. Is the data reliable? (Does our analysis accord with current situation?)
+4. Is the population density an signficant factor to impact pandemic? (Should the countries with high population density pay more attention to response to covid-19?)
 
 ## File Descriptions <a name="files"></a>
 
@@ -31,4 +30,4 @@ The main findings of the code can be found at the post available [here](https://
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Must give credit to WHO for the data.  You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset).  In addition, the Population by Country - 2020 dataset is provided by [Kaggle Community](https://www.kaggle.com/tanuprabhu/population-by-country-2020).
+Must give credit to John Hopkins University for the data.  You can find the Licensing for the data and other descriptive information at both the Kaggle link available [here](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset) and [John Hopkins University Github repository](https://github.com/CSSEGISandData/COVID-19).  In addition, the Population by Country - 2020 dataset is provided by [Kaggle Community](https://www.kaggle.com/tanuprabhu/population-by-country-2020).

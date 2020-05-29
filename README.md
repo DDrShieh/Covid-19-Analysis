@@ -17,16 +17,15 @@ For this project, I was interestested in using John Hopkins data of Covid-19 til
 
 1. How bad is the world-wide pandemic? (Is the growth of confirmed cases exponential?)
 2. Is the pandemic in China, South Korea, Italy, and United States post-peak? (Is it under control?)
-3. Is the data reliable? (Does our analysis accord with current situation?)
-4. Is the population density an signficant factor to impact pandemic? (Should the countries with high population density pay more attention to response to covid-19?)
+3. Is the population density an signficant factor to impact pandemic? (Should the governments restrict crowded activities especially with high population density to response to covid-19?)
 
 ## File Descriptions <a name="files"></a>
 
-There is one notebook available here to showcase work related to the above questions.  Each of the notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the thought process for individual steps.  
+There is only one notebook available here to showcase work related to the above questions. Markdown cells were used to assist in walking through the thought process for individual steps.  
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
+The main findings of the code can be found at the post available [here](https://medium.com/@xie.yuc/covid-19-analysis-on-april-c73e19bc6e8d).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
